@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RatingApp</string>
+    <string name="give_rating">Give Rating</string>
+    <string name="you_have_not_rated_yet">You have not Rated Yet</string>
+</resources>
